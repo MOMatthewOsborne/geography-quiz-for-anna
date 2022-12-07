@@ -15,9 +15,10 @@ function scoreTable() {
     }
 }
 scoreTable()
-// function clearScore() {
-//     localStorage.removeItem("highScores");
-// }
+function clearScore() {
+    localStorage.removeItem("highScores")
+    location.reload();
 
-// getElementById("clear").addEventListener("click", clearScore);
+}
+document.getElementById("clear").addEventListener("click", clearScore);
 
