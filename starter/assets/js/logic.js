@@ -1,4 +1,4 @@
-var secsRemaining = 60;
+var secsRemaining = 90;
 var timeDisplay = document.getElementById("time");
 var questionDisplay = document.getElementById("question-title")
 var answersDisplay = document.getElementById("choices")

@@ -1,53 +1,53 @@
 var questions = [
     {
-        Question: "What does CSS stand for?",
-        Answers: ['Control Style Selection', 'Cascading Style Sheets', 'Card Catalogue System', 'Create Core Styles'],
-        Correct: 'Cascading Style Sheets'
+        Question: "Which Country has the Most Pyramids in the World?",
+        Answers: ['Egypt', 'Mexico', 'Sudan', 'Peru'],
+        Correct: 'Sudan'
     },
     {
-        Question: "What does HTML stand for?",
-        Answers: ['Hidden Trace Mix Length', 'Helps Make Tables Longer', 'HyperText Makes Links', 'HyperText Markup Language'],
-        Correct: 'HyperText Markup Language'
+        Question: "Which Country has the Longest Coastline in the World?",
+        Answers: ['Canada', 'United States of America', 'Australia', 'Greenland'],
+        Correct: 'Canada'
     },
     {
-        Question: "What does DOM stand for?",
-        Answers: ['Document Object Model', 'Document Object Markup', 'Dial Outside Mark', 'Dial Other Mark'],
-        Correct: 'Document Object Model'
+        Question: "Which is the Newest Country in the World?",
+        Answers: ['East Timor', 'South Sudan', 'Montenegro', 'Palau'],
+        Correct: 'South Sudan'
     },
     {
-        Question: "What does API stand for?",
-        Answers: ['Allow Programming Instructions', 'Analogue Internet Protocol', 'Application Programming Interface', 'Application Posting Information'],
-        Correct: 'Application Programming Interface'
+        Question: "Which European Country Borders the Most Other Countries?",
+        Answers: ['Romania', 'Germany', 'France', 'Hungary'],
+        Correct: 'Germany'
     },
     {
-        Question: "Which of these is a Javascript Function?",
-        Answers: ['function{}', 'function[]', 'function<>', 'function()'],
-        Correct: 'function()'
+        Question: "Which City has the 25th Largest Metropolitan Population in France (2017)?",
+        Answers: ['Brest', 'Dijon', 'Perpignan', 'Le Havre'],
+        Correct: 'Dijon'
     },
     {
-        Question: "Where do you link to a CSS file in a HTML Document?",
-        Answers: ['body', 'head', 'footer', 'It does not matter'],
-        Correct: 'head'
+        Question: "What is the Second Largest City in the UK?",
+        Answers: ['Manchester', 'Edinburgh', 'Birmingham', 'Liverpool'],
+        Correct: 'Birmingham'
     },
     {
-        Question: "Where do you link to a JavaScript file in a HTML document?",
-        Answers: ['head', 'body', 'footer', 'It does not matter'],
-        Correct: 'body'
+        Question: "Which South American Country has Borders with 10 other Countries?",
+        Answers: ['Argentina', 'Paraguay', 'Bolivia', 'Brazil'],
+        Correct: 'Brazil'
     },
     {
-        Question: "How is Java related to Javascript?",
-        Answers: ['They are the same', 'They are not related at all', 'Made by the same person', 'Made by the same team'],
-        Correct: 'They are not related at all'
+        Question: "What is the Largest Desert in the World? ",
+        Answers: ['Gobi', 'Antarctic', 'Arctic', 'Sahara'],
+        Correct: 'Antarctic'
     },
     {
-        Question: "If a website is resposive, it...",
-        Answers: ['has working buttons and links', 'does not crash', 'changes based on device screen size', 'is secure'],
-        Correct: 'changes based on device screen size'
+        Question: "The Smallest Country in the World(by size) is ...",
+        Answers: ['Vatican City', 'Monaco', 'San Marino', 'Liechtenstein'],
+        Correct: 'Vatican City'
     },
     {
-        Question: "Which of these is the correct suffix for a Javascript file?",
-        Answers: ['.java', '.html', '.jv', '.js'],
-        Correct: '.js'
+        Question: "Which City has the Highest Population Density?",
+        Answers: ['Jakarta, Indonesia', 'Mexico City, Mexico', 'Seoul, South Korea', 'Manilla, Philippines'],
+        Correct: 'Manilla, Philippines'
     }
 
 
