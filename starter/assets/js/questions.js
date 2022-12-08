@@ -1,6 +1,6 @@
 var questions = [
     {
-        Question: "Which Country has the Most Pyramids in the World?",
+        Question: "Which Country has the Highest Number of Pyramids?",
         Answers: ['Egypt', 'Mexico', 'Sudan', 'Peru'],
         Correct: 'Sudan'
     },
@@ -15,7 +15,7 @@ var questions = [
         Correct: 'South Sudan'
     },
     {
-        Question: "Which European Country Borders the Most Other Countries?",
+        Question: "Which European Country Borders the Highest Number of Other Countries?",
         Answers: ['Romania', 'Germany', 'France', 'Hungary'],
         Correct: 'Germany'
     },
