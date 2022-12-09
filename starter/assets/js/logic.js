@@ -1,4 +1,4 @@
-var secsRemaining = 90;
+var secsRemaining = 90000000000000;
 var timeDisplay = document.getElementById("time");
 var questionDisplay = document.getElementById("question-title")
 var answersDisplay = document.getElementById("choices")
@@ -58,7 +58,7 @@ function displayQuestion() {
                 feedback.innerText = "Correct";
             } else {
                 secsRemaining -= 10;
-                feedback.innerText = "Incorrect";
+                feedback.innerText = "Incorrect, the correct answer is " + questions[questionNumber].Correct;
             }
             questionNumber++;
             if (questionNumber === questions.length) {
