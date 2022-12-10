@@ -1,5 +1,10 @@
 var questions = [
     {
+        Question: "Which of these rivers runs through the French City of Perpignan?",
+        Answers: ['Têt', 'Loire', 'Seine', 'Cam'],
+        Correct: 'Têt'
+    },
+    {
         Question: "Which Country has the Highest Number of Pyramids?",
         Answers: ['Egypt', 'Mexico', 'Sudan', 'Peru'],
         Correct: 'Sudan'
@@ -15,6 +20,11 @@ var questions = [
         Correct: 'South Sudan'
     },
     {
+        Question: "Which of these Countries has 3 Capital Cities?",
+        Answers: ['United States of America', 'South Africa', 'Russia', 'Turkey'],
+        Correct: 'South Africa'
+    },
+    {
         Question: "Which European Country Borders the Highest Number of Other Countries?",
         Answers: ['Romania', 'Germany', 'France', 'Hungary'],
         Correct: 'Germany'
@@ -28,6 +38,11 @@ var questions = [
         Question: "What is the Second Largest City in the UK?",
         Answers: ['Manchester', 'Edinburgh', 'Birmingham', 'Liverpool'],
         Correct: 'Birmingham'
+    },
+    {
+        Question: "Montmartre is a Neighbourhood in Which City?",
+        Answers: ['Montreal', 'Paris', 'Geneva', 'Cambridge'],
+        Correct: 'Paris'
     },
     {
         Question: "Which South American Country has Borders with 10 other Countries?",
